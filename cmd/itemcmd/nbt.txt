@@ -3,7 +3,11 @@ Item.tag
 fptldj:{
     tmp:any
     itemcmd:{
-        pos:[]
-        
+        cb:{
+            pos:[]
+        }
+        ui:{
+            pos:[]
+        }
     }
 }
