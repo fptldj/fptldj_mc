@@ -1,5 +1,5 @@
 #repeat always
-execute if entity @e[type=item,limit=1,tag=flag_i1]
+tag @e[type=item,tag=flag_cb] add flag_process
 
 #repeat always conditional
 #none
