@@ -2,7 +2,7 @@
 tag @e[type=item,tag=flag_process] remove flag_process
 
 #repeat always conditional
-#none
+#empty
 
 #chain
 tag @e[type=item,tag=flag_cb] remove flag_cb

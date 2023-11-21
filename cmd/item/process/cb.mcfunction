@@ -2,7 +2,7 @@
 tag @e[type=item,tag=flag_cb] add flag_i1
 
 #repeat always conditional
-#none
+#empty
 
 #chain
 execute as @e[type=item,tag=flag_i1] run data modify entity @s Item.tag.fptldj.tmp set from entity @s Pos
