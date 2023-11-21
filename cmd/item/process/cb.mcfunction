@@ -1,5 +1,5 @@
 #repeat always
-tag @e[type=item,tag=flag_cb] add flag_process
+tag @e[type=item,tag=flag_cb] add flag_i1
 
 #repeat always conditional
 #none
