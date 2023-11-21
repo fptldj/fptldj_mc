@@ -9,3 +9,4 @@ tag @e[type=item,tag=flag_i1] add processed
 
 #chain
 tag @e[type=item,tag=flag_i1,nbt=!{Item:{tag:{fptldj:{cb:{}}}}}] remove flag_i1
+
